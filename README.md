@@ -16,12 +16,12 @@
                                                                                                                                        
 # Stats
 
-![Doreamonfans's github stats](https://github-readme-stats.vercel.app/api?username=disneyteam76)
+![Doreamonfans's github stats](https://github-readme-stats.vercel.app/api?username=disneyteam77)
 
 
 Language
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=disneyteam76)](https://github.com/disneyteam76/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=disneyteam77)](https://github.com/disneyteam77/github-readme-stats)
 
 
 <!---
